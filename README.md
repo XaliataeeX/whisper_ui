@@ -2,6 +2,8 @@
 
 # Whisper Speech-to-Text UI
 
+![Screenshot of the Application](Screenshot.png)
+
 This is a graphical user interface (GUI) for converting speech to text using OpenAI's Whisper model. The application is built using PyQt5 and the `transformers` library from Hugging Face.
 
 ## Features
@@ -47,6 +49,7 @@ python whisper_ui_app.py
 - `recorded_audio/`: Directory to store recorded audio files.
 - `assets/`: Contains icons and styles for the UI.
 - `requirements.txt`: Lists all dependencies required to run the project.
+- `Screenshot.png`: Screenshot of the application.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
@@ -82,4 +85,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
